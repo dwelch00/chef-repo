@@ -1,0 +1,40 @@
+{
+  "maintainer": "David Welch",
+  "recommendations": {
+ 
+  },
+  "maintainer_email": "david.welch@rightscale.com",
+  "suggestions": {
+ 
+  },
+  "version": "0.0.1",
+  "license": "Copyright (c) 2009 David Welch, Inc.\n\nAll rights reserved - Do Not Redistribute\n",
+  "name": "django",
+  "dependencies": {
+      
+  },
+  "attributes": {
+      
+  },
+  "conflicting": {
+ 
+  },
+  "providing": {
+      
+  },
+  "recipes": {
+    "django::default": "Installs Django",
+    "django": "",
+    "django::install_django": "Installs Django",
+    "django::app_checkout": "Checks out application from git",
+    "django::app_start": "Starts Django app"
+  },
+  "platforms": {
+ 
+  },
+  "description": "Installs\/configures a MySQL database server with automated backups",
+  "replacing": {
+ 
+  },
+  "long_description": "= DESCRIPTION:\n\nInstalls and Configures a Django application Server\n\n"
+}
